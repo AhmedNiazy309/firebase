@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/webrtc/FirebaseRTC#readme",
   "dependencies": {
-    "firebase": "^8.4.1"
+    "firebase": "^10.9.0"
   }
 }
